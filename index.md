@@ -9,16 +9,21 @@ permalink: /
 <div id="typewriter-title"></div>
 
 <p>
-I'm currently a second-year Ph.D. student at
-<a href="https://www.ntu.edu.sg/computing">College of Computing and Data Science</a>,
-<a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, Singapore.
-I am very fortunate to be advised by
-<a href="https://jiexiong1.github.io/">Prof. Jie Xiong</a>!
-I am also delighted to work closely with
-<a href="https://st.ewi.tudelft.nl/qing/">Prof. Qing Wang</a>
-and
-<a href="https://minhaocui.github.io/">Prof. Minhao Cui</a>!
-I received my B.Eng. in Network Engineering from Dalian University of Technology, where I had the pleasure of being advised by <a href="https://faculty.dlut.edu.cn/leiwang/zh_CN/index/706091/list/index.htm">Prof. Lei Wang</a>!
+I'm currently a fourth-year Ph.D. student at
+<a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University</a>, Shaanxi, China.
+I am very fortunate to be advised by 
+<a href="https://person.zju.edu.cn/en/susanto#0">Prof. Susanto Rahardja</a> and co-supervised by
+<a href="https://www.jie-chen.com/">Prof. Jie Chen</a>.
+I am also currently a visiting Ph.D. student at the
+<a href="https://www.comp.nus.edu.sg/">School of Computing</a>,
+<a href="https://www.nus.edu.sg/">National University of Singapore</a>, Singapore, where I am delighted to be co-supervised by
+<a href="https://www.comp.nus.edu.sg/~huangzy/index.htm">Prof. Zhiyong Huang</a> and work closely with 
+<a href="https://www.linkedin.com/in/yihaoang/">Dr. Yihao Ang</a>.
+</p>
+
+<p>
+I received my B.Eng. and M.Sc. Eng. degrees in Signal Processing from Northwestern Polytechnical University, where I had the pleasure of being advised by
+<a href="https://scholar.google.com/citations?user=U9XW4aIAAAAJ&hl=en">Prof. Xiaolei Zhang</a>.
 </p>
 
 
@@ -27,18 +32,23 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 
 
 <ul class="compact-list">
-  <li><strong>Sep. 2026: Honored to receive the N2Women Student Travel Grant for ACM MobiCom 2026.</strong></li>
-  <li><strong>Sep. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2027.</li>
-  <li><strong>Sep. 2026: Honored to receive the ACM SIGMOBILE Student Travel Grant for ACM MobiCom 2026.</strong></li>
-  <li><strong>Jun. 2026: One paper was accepted at ACM MobiCom 2026.</strong></li>
-  <li><strong>Jun. 2026:</strong> Serving as an Artifact Evaluation Committee Member for NDSS 2027.</li>
-  <li><strong>May 2026:</strong> Serving as an Artifact Evaluation Committee Member for ACM CCS 2026.</li>
-  <li><strong>May 2026: Our <em>MoieEar</em> paper received the Best Paper Honorable Mention Award at SenSys 2026.</strong></li>
-  <li><strong>Apr. 2026:</strong> One paper was accepted at IMWUT/UbiComp '26.</li>
-  <li><strong>Mar. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2026.</li>
-  <li><strong>Aug. 2025:</strong> Started my Ph.D. journey at Nanyang Technological University!</li>
-  <li><strong>Oct. 2024:</strong> Presented <em>AquaKey</em> at UbiComp '24 in Melbourne, Australia.</li>
-  <li><strong>Mar. 2024:</strong> I was offered an intern position at Microsoft Research Asia, Shanghai!</li>
+  <li><strong>Aug. 2026:</strong> Presented our AnoMamba work at IJCAI 2026 in Bremen, Germany.</li>
+  <li><strong>Jul. 2026:</strong> Serving as a <strong>Program Committee Member</strong> for AAAI 2027.</li>
+  <li><strong>May 2026:</strong> Our paper <a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=rlHmYKwAAAAJ&amp;sortby=pubdate&amp;citation_for_view=rlHmYKwAAAAJ:roLk4NBRz8UC"><em>AnoMamba</em></a> accepted by <strong>IJCAI 2026!</strong></li>
+  <li><strong>Oct. 2025:</strong> Our paper <a href="https://doi.org/10.1109/TKDE.2025.3626561"><em>MMM</em></a> accepted by <strong>IEEE T-KDE!</strong></li>
+  <li><strong>Jul. 2025:</strong> Awarded <strong>China Scholarship Council funding</strong> to support my visiting Ph.D. study at NUS.</li>
+  <li><strong>Feb. 2025:</strong> Our paper <a href="https://www.sciencedirect.com/science/article/pii/S003132032500127X"><em>MSS-PAE</em></a> accepted by <strong>Pattern Recognition!</strong></li>
+  <li><strong>Oct. 2024:</strong> Presented our FlexAE work at ICIP 2024 in Abu Dhabi.</li>
+  <li><strong>Aug. 2024:</strong> Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10623192/"><em>Mamba for TSAD</em></a> accepted by <strong>IEEE SPL!</strong></li>
+  <li><strong>Jun. 2024:</strong> Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10647886/"><em>FlexAE</em></a> accepted by <strong>ICIP 2024!</strong></li>
+  <li><strong>May 2024:</strong> Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10770519/"><em>DAD</em></a> accepted by <strong>ICSPCC 2024!</strong></li>
+  <li><strong>Mar. 2023:</strong> Started my Ph.D. journey under the supervision of Prof. Susanto Rahardja.</li>
+  <li><strong>Nov. 2022:</strong> Our paper <a href="https://ieeexplore.ieee.org/abstract/document/9961873/"><em>AirBone Corpus</em></a> accepted by <strong>IEEE T-ASLP!</strong></li>
+  <li><strong>Jun. 2022:</strong> Joined the Speech Technology Group at <strong>Tencent AI Lab</strong> in Beijing as a research intern.</li>
+  <li><strong>May 2022:</strong> Presented our AirBone ASR work at ICASSP 2022 virtually.</li>
+  <li><strong>Jan. 2022:</strong> Our paper <a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=rlHmYKwAAAAJ&amp;sortby=pubdate&amp;citation_for_view=rlHmYKwAAAAJ:2osOgNQ5qMEC"><em>AirBone ASR</em></a> accepted by <strong>ICASSP 2022!</strong></li>
+  <li><strong>Sep. 2021:</strong> Presented our ad hoc ASR work at Interspeech 2021 virtually.</li>
+  <li><strong>Jan. 2021:</strong> Our paper <a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=rlHmYKwAAAAJ&amp;sortby=pubdate&amp;citation_for_view=rlHmYKwAAAAJ:9yKSN-GCB0IC"><em>ad-hoc ASR</em></a> accepted by <strong>Interspeech 2021!</strong></li>
 </ul>
 
 
@@ -50,67 +60,87 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <ul class="publication-list">
   <li class="publication-item">
     <div class="publication-heading">
-      <span class="publication-badge">MobiCom '26</span>
-      <span class="publication-title">When Butterfly Meets Photoacoustic Effect</span>
+      <span class="publication-badge">IJCAI '26</span>
+      <span class="publication-title">AnoMamba: Aligning Reconstruction with Time Series Anomaly Detection via Selective Global Dependency Modeling</span>
     </div>
-    <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Qing Wang, Jie Xiong.</div>
-    <div class="publication-venue">ACM Conference on Mobile Computing and Networking, 2026.</div>
-  </li>
-
-
-  <li class="publication-item">
-    <div class="publication-heading">
-      <span class="publication-badge">IMWUT/UbiComp '26</span>
-      <span class="publication-title">From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing</span>
-    </div>
-    <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.</div>
-    <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
+    <div class="publication-authors"><strong>Junqi Chen</strong>, Xu Tan, Jie Chen, Susanto Rahardja.</div>
+    <div class="publication-venue">International Joint Conference on Artificial Intelligence, 2026.</div>
   </li>
 
   <li class="publication-item">
     <div class="publication-heading">
-      <span class="publication-badge">IMWUT/UbiComp '24</span>
-      <span class="publication-title">AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</span>
+      <span class="publication-badge">TKDE '25</span>
+      <span class="publication-title">MMM: A unified weakly-supervised anomaly detection framework for multi-distributional data</span>
     </div>
-    <div class="publication-authors"><strong>Lupeng Zhang</strong>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, Lei Wang.</div>
-    <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024, 8(1): 1–25.</div>
+    <div class="publication-authors">Xu Tan, <strong>Junqi Chen</strong>, Jiawei Yang, Jie Chen, Susanto Rahardja.</div>
+    <div class="publication-venue">IEEE Transactions on Knowledge and Data Engineering.</div>
   </li>
 
   <li class="publication-item">
     <div class="publication-heading">
-      <span class="publication-badge">IMWUT/UbiComp '26</span>
-      <span class="publication-title">AirComm: Your Smartphone Can “Smell” Fine Particles via Light</span>
+      <span class="publication-badge">PR '25</span>
+      <span class="publication-title">MSS-PAE: Saving autoencoder-based outlier detection from unexpected reconstruction</span>
     </div>
-    <div class="publication-authors">Yang Chi, <strong>Lupeng Zhang</strong>, Xinlei Li, Chi Lin, Jie Xiong.</div>
-    <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
+    <div class="publication-authors">Xu Tan, Jiawei Yang, <strong>Junqi Chen</strong>, Sylwan Rahardja, Susanto Rahardja.</div>
+    <div class="publication-venue">Pattern Recognition.</div>
   </li>
 
   <li class="publication-item">
     <div class="publication-heading">
-      <span class="publication-badge">SenSys '26</span>
-      <span class="publication-title">MoiréEar: Moiré Can See What You Cannot Hear</span>
+      <span class="publication-badge">SPL '24</span>
+      <span class="publication-title">Joint Selective State Space Model and Detrending for Robust Time Series Anomaly Detection,</span>
     </div>
-    <div class="publication-authors">Hongqiang Zhang, <strong>Lupeng Zhang</strong>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.</div>
+    <div class="publication-authors"><strong>Junqi Chen</strong>, Xu Tan, Sylwan Rahardja, Jiawei Yang, Susanto Rahardja.</div>
+    <div class="publication-venue">IEEE Signal Processing Letters.</div>
+  </li>
+
+  <li class="publication-item">
+    <div class="publication-heading">
+      <span class="publication-badge">ICIP '24</span>
+      <span class="publication-title">FlexAE: A Self-Conditioned Detector to Prevent Model Overfitting for Unsupervised Video Anomaly Detection.</span>
+    </div>
+    <div class="publication-authors"><strong>Junqi Chen</strong>, Xu Tan, Jiawei Yang, Sylwan Rahardja, Susanto Rahardja.</div>
+    <div class="publication-venue"> IEEE International Conference on Image Processing, 2024.</div>
+  </li>
+
+  <li class="publication-item">
+    <div class="publication-heading">
+      <span class="publication-badge">ICIP '24</span>
+      <span class="publication-title">Ensemble of Deep Variational Mixture Models for Unsupervised Clustering</span>
+    </div>
+    <div class="publication-authors">Xu Tan, <strong>Junqi Chen</strong>, Jiawei Yang, Sylwan Rahardja, Mou Wang, Susanto Rahardja.</div>
+    <div class="publication-venue">IEEE International Conference on Image Processing, 2024.</div>
+  </li>
+
+  <li class="publication-item">
+    <div class="publication-heading">
+      <span class="publication-badge">ICASSP '22</span>
+      <span class="publication-title">End-to-end Multi-modal Speech Recognition with Air and Bone conducted speech</span>
+    </div>
+    <div class="publication-authors"><strong>Junqi Chen</strong>, Mou Wang, Xiao-Lei Zhang, Zhiyong Huang, Susanto Rahardja.</div>
+    <div class="publication-venue">IEEE International Conference on Acoustics, Speech and Signal Processing, 2022.</div>
+  </li>
+
+  <li class="publication-item">
+    <div class="publication-heading">
+      <span class="publication-badge">TASLP '22</span>
+      <span class="publication-title">End-to-end multi-modal speech recognition on an air and bone conducted speech corpus</span>
+    </div>
+    <div class="publication-authors">Mou Wang<sup>*</sup>, <strong>Junqi Chen<sup>*</sup></strong>, Xiao-Lei Zhang, Susanto Rahardja.
+    <span class="equal-contribution">(* Equal contribution)</span>
+    </div>
+    <div class="publication-venue">IEEE/ACM Transactions on Audio, Speech, and Language Processing</div>
+  </li>
+
+  <li class="publication-item">
+    <div class="publication-heading">
+      <span class="publication-badge">Interspeech '21</span>
+      <span class="publication-title">Scaling sparsemax based channel selection for speech recognition with ad-hoc microphone arrays</span>
+    </div>
+    <div class="publication-authors"><strong>Junqi Chen</strong>, Xiao-Lei Zhang.</div>
     <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
   </li>
 
-  <li class="publication-item">
-    <div class="publication-heading">
-      <span class="publication-badge">SenSys '26</span>
-      <span class="publication-title">From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing</span>
-    </div>
-    <div class="publication-authors">Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <strong>Lupeng Zhang</strong>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.</div>
-    <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
-  </li>
-
-  <li class="publication-item">
-    <div class="publication-heading">
-      <span class="publication-badge">SECON '24</span>
-      <span class="publication-title">UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching</span>
-    </div>
-    <div class="publication-authors">Jingwen Wei, <strong>Lupeng Zhang</strong>, Jingchi Zhang, Bin Han, Lei Wang.</div>
-    <div class="publication-venue">IEEE International Conference on Sensing, Communication, and Networking, 2024, pp. 1–9.</div>
-  </li>
 </ul>
 
 
@@ -127,7 +157,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 
 [//]: # (  *IEEE Internet of Things Journal &#40;IoT-J&#41;*, 2021, 9&#40;16&#41;: 14708–14722.)
 
-For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=a0AKXBkAAAAJ).
+For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=rlHmYKwAAAAJ).
 
 [//]: #
 [//]: # (<ul>)
@@ -158,19 +188,12 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <h2>Honors and Awards</h2>
 
 <ul>
-  <li><strong>N2Women Student Travel Grant,</strong> ACM MobiCom, 2026.</li>
-  <li><strong>ACM SIGMOBILE Student Travel Grant,</strong> ACM MobiCom, 2026.</li>
-  <li><strong>SenSys '26 Best Paper Honorable Mention Award,</strong> IEEE/ACM SenSys, 2026.</li>
-  <li><strong>NTU Research Scholarship</strong>, Nanyang Technological University, 2025.</li>
-  <li><strong>Longcheng Laboratory Scholarship</strong>, 2024.</li>
-  <li><strong>National Scholarship in China</strong>, 2021, 2022.</li>
-  <li><strong>Outstanding Student Pacemaker</strong>, Dalian University of Technology, (<em>Top 10 in DUT</em>), 2021.</li>
-  <li><strong>Qu Bochuan (President) Scholarship</strong>, Dalian University of Technology, 2021.</li>
-  <li><strong>First Prize</strong>, China National University Computer Competition, 2021.</li>
-  <li><strong>Special Prize</strong>, China National University Computer Competition, 2019.</li>
- <li><strong>Scientific and Technological Innovation Scholarship</strong>, Dalian University of Technology, 2019.</li>
+  <li><strong>China Scholarship Council Joint PhD Scholarship</strong>, 2025.</li>
+  <li><strong>Outstanding Graduates of NPU</strong>, Northwestern Polytechnical University, 2023.</li>
+  <li><strong>Second Prize, iFLYTEK Speaker Separation Contest</strong>, 2022.</li>
+  <li><strong>The Wu Yajun Scholarship</strong>, 2021.</li>
+  <li><strong>Outstanding Graduates of NPU</strong>, Northwestern Polytechnical University, 2021.</li>
 </ul>
-
 
 
 
@@ -179,9 +202,9 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 <ul>
   <li>
-    <strong>Microsoft Research Asia, Shanghai, China</strong><br/>
-    Wireless Group, Research Intern<br/>
-    Mar. 2024 – Sep. 2024
+    <strong>Tencent AI Lab, Beijing, China</strong><br/>
+    Center of Speech Technology, Research Intern<br/>
+    Jun. 2022 – Sep. 2022
   </li>
 </ul>
 
@@ -189,48 +212,42 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <div id="service" class="anchor-offset"></div>
 <h2>Service</h2>
 
-- **Artifact Evaluation Committee Member**, *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2027.
+- **Program Committee**, *AAAI*, 2027.
 
-- **Artifact Evaluation Committee Member**, *Network and Distributed System Security (NDSS) Symposium*, 2027.
+- **Reviewer**, *Pattern Recognition*, 2025-Present.
 
-- **Artifact Evaluation Committee Member**, *ACM Conference on
-  Computer and Communications Security (ACM CCS)*, 2026.
+- **Reviewer**, *Knowledge-Based Systems*, 2025-Present.
 
-- **Artifact Evaluation Committee Member**, *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2026.
+- **Reviewer**, *Neural Network*, 2025-Present.
 
-- **Reviewer**, *IEEE Transactions on Mobile Computing*, 2026.
+- **Reviewer**, *IEEE Transactions on Knowledge and Data Engineering*, 2025.
 
-- **Reviewer**, *ACM Conference on Human Factors in Computing Systems (CHI)*, 2024.
+- **Reviewer**, *IEEE Signal Processing Letters*, 2024.
 
-- **Reviewer**, *IEEE Systems Journal*, 2021–2023.
-
-- **Reviewer**, *IEEE Transactions on Industrial Informatics (TII)*, 2021, 2023.
-
-
-<div id="teaching" class="anchor-offset"></div>
-<h2>Teaching</h2>
-
-- **Lab Teaching Assistant**, *SC2008 / CE3005: Computer Networks*, Nanyang Technological University, 2026.
-
-- **Lecture Teaching Assistant**, *Analysis and Design of Algorithms*, Dalian University of Technology, 2022.
-
+- **Reviewer**, *IEEE Transactions on Industrial Electronics*, 2023.
 
 <div id="hobbies" class="anchor-offset"></div>
 <h2>Hobbies</h2>
 
 <ul class="compact-list">
-  <li><strong>Cooking:</strong> Chinese Northeastern and Yunnan home-style dishes, bowl pudding, taro balls, cakes, egg tarts, handmade beef balls, luncheon meat, French fries, various soups, fresh milk rice pudding, and qingtuan.</li>
-  <li><strong>Handicrafts:</strong> beaded bracelets, wool felting, and butterfly specimen making.</li>
-  <li><strong>Reading and watching:</strong> novels, anime, and TV dramas.</li>
- <li><strong>Gaming:</strong> Genshin Impact, Honkai: Star Rail, and League of Legends (including Teamfight Tactics).</li>
-  <li><strong>Currently learning:</strong> traditional Chinese medicine, especially cupping and Chinese herbal medicine.</li>
+  <li><strong>Singing:</strong> a big fan of Silence Wang, Alan Tam, and Jay Chou.</li>
+
+  <li><strong>Sports:</strong> volleyball, table tennis, badminton, basketball, and swimming.</li>
+
+  <li><strong>Gaming:</strong> Genshin Impact, Honkai: Star Rail, and League of Legends.</li>
+
+  <li><strong>Anime:</strong> Japanese anime and Chinese Donghua.</li>
+
+  <li><strong>Creative work:</strong> video editing (MADs, music photo montages, promotional and event recap videos) and poster design.</li>
 </ul>
 
+[//]: # (<div id="cat-widget" class="cat-widget" title="Click me!">)
 
-<div id="cat-widget" class="cat-widget" title="Click me!">
-  <img id="cat-img" src="/assets/images/chi-cat-icon.png" alt="Cute cat">
-  <span id="cat-meow" class="cat-meow">Meow~</span>
-</div>
+[//]: # (  <img id="cat-img" src="/assets/images/chi-cat-icon.png" alt="Cute cat">)
+
+[//]: # (  <span id="cat-meow" class="cat-meow">Meow~</span>)
+
+[//]: # (</div>)
 
 
 [//]: # (<h2>Visitors</h2>)

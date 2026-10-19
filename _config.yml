@@ -30,17 +30,18 @@
 minimal_mistakes_skin    : "mint"
 
 locale                   : "en-US"
-title: "Lupeng Zhang @ NTU"
+title: "Junqi Chen @ NPU"
 title_separator          : "-"
-name                     : "Lupeng Zhang<br/>(张璐鹏)"
-description              : "Ph.D. Student at Nanyang Technological University"
+name                     : "Junqi Chen<br/>(陈俊淇)"
+description              : "Ph.D. Student at Northwestern Polytechnical University"
 url                      : "https://Chen-Junqi1.github.io"
 baseurl                  : ""
 repository               : "Chen-Junqi1/Chen-Junqi1.github.io"
 remote_theme             : "mmistakes/minimal-mistakes@4.28.0"
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/images/chi-cat-icon.png"
+#logo: "/assets/images/chi-cat-icon.png"
+logo: "/assets/images/npu.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -128,18 +129,18 @@ analytics:
 
 # Site Author
 author:
-  name: "Lupeng Zhang (张璐鹏)"
+  name: "Junqi Chen (陈俊淇)"
   avatar: "/assets/images/portrait.jpg"
-  bio: "Ph.D. Student at NTU"
-  location: "Singapore"
-  email: "LUPENG001@e.ntu.edu.sg"
+  bio: "Ph.D. Student at NPU"
+  location: "China"
+  email: "jqchen@ieee.org"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Chen-Junqi1/Chen-Junqi1.github.io"
+      url: "https://github.com/aaaceo890"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=a0AKXBkAAAAJ"
+      url: "https://scholar.google.com/citations?user=rlHmYKwAAAAJ"
 
 footer:
   links:
