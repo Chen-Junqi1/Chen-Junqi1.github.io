@@ -26,6 +26,9 @@ I received my B.Eng. and M.Sc. Eng. degrees in Signal Processing from Northweste
 <a href="https://scholar.google.com/citations?user=U9XW4aIAAAAJ&hl=en">Prof. Xiaolei Zhang</a>.
 </p>
 
+<p>
+<strong>Research Interests:</strong> My research focuses on bringing time-series anomaly detection to real-world systems by moving beyond restrictive assumptions and modeling constraints.
+</p>
 
 <div id="news" class="anchor-offset"></div>
 <h2>News</h2>
@@ -36,7 +39,7 @@ I received my B.Eng. and M.Sc. Eng. degrees in Signal Processing from Northweste
   <li><strong>Jul. 2026:</strong> Serving as a <strong>Program Committee Member</strong> for AAAI 2027.</li>
   <li><strong>May 2026:</strong> Our paper <a href="https://scholar.google.com.hk/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=rlHmYKwAAAAJ&amp;sortby=pubdate&amp;citation_for_view=rlHmYKwAAAAJ:roLk4NBRz8UC"><em>AnoMamba</em></a> accepted by <strong>IJCAI 2026!</strong></li>
   <li><strong>Oct. 2025:</strong> Our paper <a href="https://doi.org/10.1109/TKDE.2025.3626561"><em>MMM</em></a> accepted by <strong>IEEE T-KDE!</strong></li>
-  <li><strong>Jul. 2025:</strong> Awarded <strong>China Scholarship Council funding</strong> to support my visiting Ph.D. study at NUS.</li>
+  <li><strong>Jul. 2025:</strong> Awarded <strong>the China Scholarship Council funding</strong> to support my visiting Ph.D. study at NUS.</li>
   <li><strong>Feb. 2025:</strong> Our paper <a href="https://www.sciencedirect.com/science/article/pii/S003132032500127X"><em>MSS-PAE</em></a> accepted by <strong>Pattern Recognition!</strong></li>
   <li><strong>Oct. 2024:</strong> Presented our FlexAE work at ICIP 2024 in Abu Dhabi.</li>
   <li><strong>Aug. 2024:</strong> Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10623192/"><em>Mamba for TSAD</em></a> accepted by <strong>IEEE SPL!</strong></li>
@@ -188,7 +191,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <h2>Honors and Awards</h2>
 
 <ul>
-  <li><strong>China Scholarship Council Joint PhD Scholarship</strong>, 2025.</li>
+  <li><strong>The China Scholarship Council Joint PhD Scholarship</strong>, 2025.</li>
   <li><strong>Outstanding Graduates of NPU</strong>, Northwestern Polytechnical University, 2023.</li>
   <li><strong>Second Prize, iFLYTEK Speaker Separation Contest</strong>, 2022.</li>
   <li><strong>The Wu Yajun Scholarship</strong>, 2021.</li>
