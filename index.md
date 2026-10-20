@@ -17,8 +17,7 @@ I am very fortunate to be advised by
 I am also currently a visiting Ph.D. student at the
 <a href="https://www.comp.nus.edu.sg/">School of Computing</a>,
 <a href="https://www.nus.edu.sg/">National University of Singapore</a>, Singapore, where I am delighted to be co-supervised by
-<a href="https://www.comp.nus.edu.sg/~huangzy/index.htm">Prof. Zhiyong Huang</a> and work closely with 
-<a href="https://www.linkedin.com/in/yihaoang/">Dr. Yihao Ang</a>.
+<a href="https://www.comp.nus.edu.sg/~huangzy/index.htm">Prof. Zhiyong Huang</a>.
 </p>
 
 <p>
